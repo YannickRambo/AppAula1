@@ -21,7 +21,15 @@ Este projeto foi desenvolvido com o propósito de ser uma calculadora básica.
 
 ## APK do Projeto:
 
+<a href="https://drive.google.com/file/d/1ubw7Ph15fCgCuM_ohhHgrpEej0tta7uy/view?usp=sharing">Download da aplicação </a>
+
 ## Como instalar:
+
+1 - Clique no link de download
+
+2 - Clique no botão "Download"
+
+3 - Aguarde a aplicação baixar, dessa forma estará pronta para ser utilizada.
 
 ## Pré-requisitos:
 
